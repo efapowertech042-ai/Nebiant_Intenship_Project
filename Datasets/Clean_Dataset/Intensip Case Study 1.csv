@@ -1,0 +1,501 @@
+Week,Address,Number of delivered orders,Basket size,Bad rated orders due to wrong or Missing Products,Bad rated orders due to store packaging Issues,Bad rated orders due to store allergy not considered,Bad rated orders due to to  Poor Quality,Cancelled Orders Due to Customer Absent,Cancelled Orders due to Partner Printer/internet issue,Cancelled Orders Due to Partner Products Not Available,Cancelled Orders Due to Partner Store Closed,Cancelled Orders Due to Store Cant Deliver,Refunds to customer,Total Order Complaint,Total Order Cancellation
+04-Jan-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",104,€ 21.65,1,0,0,1,0,0,0,0,0,€ 3.25,2,0
+01-Feb-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",124,€ 20.95,1,0,0,0,0,0,0,0,0,€ 3.14,1,0
+08-Feb-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",71,€ 22.94,1,0,0,0,0,0,0,0,0,€ 11.47,1,0
+15-Feb-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",76,€ 21.11,1,0,0,0,0,0,0,0,0,€ 3.17,1,0
+08-Mar-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",87,€ 22.43,1,0,0,1,0,0,0,0,0,€ 6.73,2,0
+05-Apr-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",90,€ 23.42,1,0,0,1,0,0,0,0,0,€ 3.51,2,0
+26-Apr-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",97,€ 24.75,1,0,0,0,0,0,0,0,0,€ 12.38,1,0
+17-May-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",109,€ 20.81,1,0,0,0,0,0,0,0,0,€ 10.40,1,0
+24-May-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",86,€ 22.18,1,0,0,0,0,0,0,0,0,€ 3.33,1,0
+28-Dec-20,"Av. de Monforte de Lemos, 12, Madrid, Spain",84,€ 23.32,2,0,0,1,0,0,0,0,0,€ 23.32,3,0
+11-Jan-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",41,€ 23.95,2,0,0,0,0,0,0,0,0,€ 14.37,2,0
+18-Jan-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",121,€ 20.30,2,0,0,0,0,0,0,0,0,€ 20.30,2,0
+15-Mar-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",99,€ 21.94,2,0,0,1,0,0,0,0,0,€ 6.58,3,0
+22-Mar-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",90,€ 24.09,2,0,0,0,0,0,0,0,0,€ 24.09,2,0
+29-Mar-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",86,€ 23.66,2,0,0,0,0,0,0,0,0,€ 14.20,2,0
+22-Feb-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",69,€ 21.23,0,0,0,2,0,0,0,0,0,€ 0.00,2,0
+12-Apr-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",68,€ 20.31,2,0,0,0,0,0,0,0,0,€ 12.19,2,0
+01-Mar-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",96,€ 22.03,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+19-Apr-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",76,€ 20.65,2,0,0,0,0,2,0,0,1,€ 6.20,2,3
+25-Jan-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",122,€ 20.20,3,0,0,0,0,0,0,0,0,€ 18.18,3,0
+03-May-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",117,€ 22.17,3,0,0,0,0,0,0,0,0,€ 9.98,3,0
+10-May-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",112,€ 20.84,3,0,0,0,0,0,0,0,0,€ 31.26,3,0
+31-May-25,"Av. de Monforte de Lemos, 12, Madrid, Spain",107,€ 19.80,3,0,0,0,0,0,0,0,1,€ 17.82,3,1
+04-Jan-25,"Calle Albacete 10, Madrid, Spain",68,€ 27.16,1,0,0,1,0,0,0,0,0,€ 8.15,2,0
+11-Jan-25,"Calle Albacete 10, Madrid, Spain",25,€ 22.61,1,0,0,0,0,0,0,0,0,€ 3.39,1,0
+18-Jan-25,"Calle Albacete 10, Madrid, Spain",125,€ 23.57,1,1,0,0,0,0,0,0,0,€ 3.54,2,0
+22-Feb-25,"Calle Albacete 10, Madrid, Spain",75,€ 23.96,1,0,0,0,0,0,0,0,0,€ 7.19,1,0
+08-Mar-25,"Calle Albacete 10, Madrid, Spain",52,€ 26.45,1,0,0,0,0,0,0,0,0,€ 13.22,1,0
+05-Apr-25,"Calle Albacete 10, Madrid, Spain",56,€ 26.47,1,0,0,0,0,0,0,0,0,€ 7.94,1,0
+26-Apr-25,"Calle Albacete 10, Madrid, Spain",82,€ 23.43,1,0,0,0,0,0,0,0,0,€ 7.03,1,0
+03-May-25,"Calle Albacete 10, Madrid, Spain",65,€ 23.40,1,0,0,1,0,0,0,0,0,€ 7.02,2,0
+08-Feb-25,"Calle Albacete 10, Madrid, Spain",71,€ 23.56,2,0,0,0,0,0,0,0,0,€ 7.07,2,0
+15-Mar-25,"Calle Albacete 10, Madrid, Spain",60,€ 23.15,2,0,0,0,0,0,0,0,0,€ 6.94,2,0
+28-Dec-20,"Calle Albacete 10, Madrid, Spain",108,€ 24.86,3,0,0,1,0,0,0,0,0,€ 22.37,4,0
+15-Feb-25,"Calle Albacete 10, Madrid, Spain",79,€ 22.40,3,1,0,0,0,0,0,0,0,€ 33.60,4,0
+01-Mar-25,"Calle Albacete 10, Madrid, Spain",75,€ 21.04,3,0,0,0,0,0,0,0,0,€ 31.56,3,0
+29-Mar-25,"Calle Albacete 10, Madrid, Spain",67,€ 24.18,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+22-Mar-25,"Calle Albacete 10, Madrid, Spain",62,€ 23.12,3,0,0,0,0,0,0,0,0,€ 20.81,3,0
+12-Apr-25,"Calle Albacete 10, Madrid, Spain",55,€ 24.66,3,0,0,1,0,0,0,0,0,€ 22.19,4,0
+25-Jan-25,"Calle Albacete 10, Madrid, Spain",121,€ 20.29,4,0,1,1,0,0,0,0,0,€ 40.58,6,0
+01-Feb-25,"Calle Albacete 10, Madrid, Spain",136,€ 22.05,4,0,0,1,0,0,0,0,0,€ 44.10,5,0
+19-Apr-25,"Calle Albacete 10, Madrid, Spain",51,€ 23.65,4,0,0,0,0,0,0,0,0,€ 28.38,4,0
+10-May-25,"Calle Albacete 10, Madrid, Spain",72,€ 22.40,4,0,0,0,0,0,0,0,0,€ 26.88,4,0
+17-May-25,"Calle Albacete 10, Madrid, Spain",60,€ 22.29,0,0,0,1,0,0,0,0,0,€ 0.00,1,0
+24-May-25,"Calle Albacete 10, Madrid, Spain",58,€ 23.22,0,0,1,0,0,0,0,0,0,€ 0.00,1,0
+31-May-25,"Calle Albacete 10, Madrid, Spain",71,€ 21.77,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+11-Jan-25,"Nuñez de Balboa 118, Madrid, Spain",56,€ 20.51,1,0,0,0,0,0,0,0,0,€ 10.26,1,0
+31-May-25,"Nuñez de Balboa 118, Madrid, Spain",80,€ 18.44,1,0,0,1,0,0,0,0,0,€ 9.22,2,0
+18-Jan-25,"Nuñez de Balboa 118, Madrid, Spain",133,€ 18.56,2,0,0,0,1,0,0,0,0,€ 5.57,2,1
+08-Feb-25,"Nuñez de Balboa 118, Madrid, Spain",125,€ 20.45,2,0,0,0,0,0,0,0,0,€ 20.45,2,0
+15-Feb-25,"Nuñez de Balboa 118, Madrid, Spain",100,€ 19.29,2,0,0,0,0,0,0,0,0,€ 11.57,2,0
+28-Dec-20,"Nuñez de Balboa 118, Madrid, Spain",51,€ 20.20,3,0,0,0,0,0,0,0,0,€ 9.09,3,0
+15-Mar-25,"Nuñez de Balboa 118, Madrid, Spain",87,€ 17.57,0,0,2,0,1,0,0,0,0,€ 0.00,2,1
+01-Mar-25,"Nuñez de Balboa 118, Madrid, Spain",105,€ 20.68,3,0,0,0,0,0,0,0,0,€ 18.61,3,0
+08-Mar-25,"Nuñez de Balboa 118, Madrid, Spain",87,€ 18.19,3,0,0,1,0,0,0,0,0,€ 8.19,4,0
+22-Mar-25,"Nuñez de Balboa 118, Madrid, Spain",71,€ 19.53,3,0,0,0,0,0,0,0,0,€ 29.30,3,0
+12-Apr-25,"Nuñez de Balboa 118, Madrid, Spain",85,€ 19.77,3,0,1,0,0,0,0,0,0,€ 8.90,4,0
+19-Apr-25,"Nuñez de Balboa 118, Madrid, Spain",85,€ 18.80,3,0,0,0,0,0,0,0,0,€ 16.92,3,0
+25-Jan-25,"Nuñez de Balboa 118, Madrid, Spain",129,€ 19.20,4,0,0,2,0,0,0,0,0,€ 11.52,6,0
+22-Feb-25,"Nuñez de Balboa 118, Madrid, Spain",81,€ 20.09,4,0,0,0,0,0,0,0,0,€ 24.11,4,0
+05-Apr-25,"Nuñez de Balboa 118, Madrid, Spain",78,€ 19.41,4,0,0,0,0,0,0,0,0,€ 23.29,4,0
+17-May-25,"Nuñez de Balboa 118, Madrid, Spain",89,€ 18.09,4,0,0,0,0,0,0,0,0,€ 21.71,4,0
+04-Jan-25,"Nuñez de Balboa 118, Madrid, Spain",88,€ 19.30,5,0,0,1,0,0,0,0,0,€ 48.25,6,0
+01-Feb-25,"Nuñez de Balboa 118, Madrid, Spain",132,€ 19.50,5,0,0,0,0,0,0,0,0,€ 48.75,5,0
+29-Mar-25,"Nuñez de Balboa 118, Madrid, Spain",70,€ 18.18,5,0,0,0,0,0,0,0,0,€ 13.64,5,0
+03-May-25,"Nuñez de Balboa 118, Madrid, Spain",112,€ 19.23,5,0,0,0,0,0,0,0,0,€ 48.08,5,0
+10-May-25,"Nuñez de Balboa 118, Madrid, Spain",93,€ 18.18,5,0,0,0,0,0,0,0,0,€ 27.27,5,0
+26-Apr-25,"Nuñez de Balboa 118, Madrid, Spain",92,€ 18.58,6,0,0,0,0,0,0,0,0,€ 16.72,6,0
+24-May-25,"Nuñez de Balboa 118, Madrid, Spain",71,€ 20.92,6,0,0,0,0,0,0,0,0,€ 18.83,6,0
+25-Jan-25,"Calle Aracne, Madrid, Spain",13,€ 20.58,1,0,0,0,0,0,0,2,0,€ 3.09,1,2
+08-Feb-25,"Calle Aracne, Madrid, Spain",8,€ 24.90,1,0,0,0,0,0,0,0,0,€ 3.74,1,0
+01-Mar-25,"Calle Aracne, Madrid, Spain",2,€ 29.13,1,0,0,0,0,0,0,0,0,€ 8.74,1,0
+01-Feb-25,"Calle Aracne, Madrid, Spain",12,€ 18.51,2,0,0,0,0,0,0,1,0,€ 5.55,2,1
+15-Feb-25,"Calle Aracne, Madrid, Spain",6,€ 29.27,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+22-Feb-25,"Calle Aracne, Madrid, Spain",1,€ 29.50,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+26-Apr-25,"Calle Aracne, Madrid, Spain",3,€ 28.83,2,0,0,0,0,0,0,0,0,€ 8.65,2,0
+08-Mar-25,"Calle Aracne, Madrid, Spain",3,€ 27.92,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+15-Mar-25,"Calle Aracne, Madrid, Spain",5,€ 13.27,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+22-Mar-25,"Calle Aracne, Madrid, Spain",3,€ 26.78,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+29-Mar-25,"Calle Aracne, Madrid, Spain",4,€ 28.25,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+05-Apr-25,"Calle Aracne, Madrid, Spain",4,€ 19.94,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+28-Dec-20,"Calle Aracne, Madrid, Spain",9,€ 24.93,4,0,0,0,0,0,0,1,0,€ 49.86,4,1
+04-Jan-25,"Calle Aracne, Madrid, Spain",25,€ 23.30,4,0,0,0,1,1,0,0,0,€ 46.60,4,2
+19-Apr-25,"Calle Aracne, Madrid, Spain",5,€ 28.00,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+03-May-25,"Calle Aracne, Madrid, Spain",7,€ 24.41,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+10-May-25,"Calle Aracne, Madrid, Spain",7,€ 24.37,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+17-May-25,"Calle Aracne, Madrid, Spain",9,€ 18.83,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+18-Jan-25,"Calle Aracne, Madrid, Spain",44,€ 23.29,9,0,0,0,0,0,0,0,0,€ 104.80,9,0
+24-May-25,"Calle Aracne, Madrid, Spain",2,€ 22.75,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+31-May-25,"Calle Aracne, Madrid, Spain",3,€ 30.50,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+04-Jan-25,"Calle de Alonso Cano 32, Madrid, Spain",48,€ 20.14,1,0,0,0,0,0,0,0,0,€ 10.07,1,0
+01-Feb-25,"Calle de Alonso Cano 32, Madrid, Spain",71,€ 15.11,1,0,0,1,0,0,0,0,0,€ 4.53,2,0
+11-Jan-25,"Calle de Alonso Cano 32, Madrid, Spain",49,€ 16.31,0,0,0,1,0,0,0,4,0,€ 0.00,1,4
+22-Feb-25,"Calle de Alonso Cano 32, Madrid, Spain",53,€ 18.43,1,0,0,0,0,0,0,1,0,€ 2.76,1,1
+15-Mar-25,"Calle de Alonso Cano 32, Madrid, Spain",39,€ 18.43,1,0,1,0,0,0,0,0,0,€ 2.76,2,0
+22-Mar-25,"Calle de Alonso Cano 32, Madrid, Spain",35,€ 18.79,1,0,0,0,0,0,0,0,0,€ 2.82,1,0
+29-Mar-25,"Calle de Alonso Cano 32, Madrid, Spain",32,€ 20.28,1,1,0,0,0,0,0,1,0,€ 6.08,2,1
+12-Apr-25,"Calle de Alonso Cano 32, Madrid, Spain",32,€ 15.81,1,0,0,0,0,0,0,0,0,€ 7.90,1,0
+19-Apr-25,"Calle de Alonso Cano 32, Madrid, Spain",36,€ 16.68,1,0,0,0,0,0,0,0,0,€ 2.50,1,0
+26-Apr-25,"Calle de Alonso Cano 32, Madrid, Spain",45,€ 15.90,1,0,0,0,0,0,0,0,0,€ 2.38,1,0
+28-Dec-20,"Calle de Alonso Cano 32, Madrid, Spain",41,€ 19.62,2,0,0,0,0,0,0,0,0,€ 5.89,2,0
+05-Apr-25,"Calle de Alonso Cano 32, Madrid, Spain",42,€ 15.76,2,0,0,0,0,0,0,1,0,€ 15.76,2,1
+08-Feb-25,"Calle de Alonso Cano 32, Madrid, Spain",71,€ 16.10,3,0,0,0,0,0,0,0,0,€ 14.49,3,0
+15-Feb-25,"Calle de Alonso Cano 32, Madrid, Spain",49,€ 18.03,3,0,0,0,0,0,0,0,0,€ 8.11,3,0
+08-Mar-25,"Calle de Alonso Cano 32, Madrid, Spain",43,€ 16.51,3,0,0,0,0,0,0,0,0,€ 14.86,3,0
+03-May-25,"Calle de Alonso Cano 32, Madrid, Spain",57,€ 17.43,3,0,1,0,0,0,0,0,0,€ 15.69,4,0
+31-May-25,"Calle de Alonso Cano 32, Madrid, Spain",46,€ 16.37,3,0,0,0,0,0,0,0,0,€ 24.56,3,0
+25-Jan-25,"Calle de Alonso Cano 32, Madrid, Spain",78,€ 15.55,4,0,0,0,0,0,0,0,0,€ 18.66,4,0
+10-May-25,"Calle de Alonso Cano 32, Madrid, Spain",37,€ 15.99,4,0,0,1,0,0,0,1,0,€ 9.59,5,1
+01-Mar-25,"Calle de Alonso Cano 32, Madrid, Spain",59,€ 16.83,5,0,0,1,0,0,0,1,0,€ 12.62,6,1
+17-May-25,"Calle de Alonso Cano 32, Madrid, Spain",46,€ 15.55,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+24-May-25,"Calle de Alonso Cano 32, Madrid, Spain",26,€ 15.21,0,0,0,0,0,0,0,3,0,€ 0.00,0,3
+18-Jan-25,"Calle de Alonso Cano 32, Madrid, Spain",107,€ 15.76,9,0,0,0,0,0,0,1,0,€ 113.47,9,1
+28-Dec-20,"Calle Campezo, 20, 28022 Madrid, España",32,€ 21.20,0,0,0,0,0,0,0,2,0,€ 0.00,0,2
+15-Feb-25,"Calle Campezo, 20, 28022 Madrid, España",36,€ 22.66,1,0,0,0,0,0,0,2,0,€ 3.40,1,2
+15-Mar-25,"Calle Campezo, 20, 28022 Madrid, España",31,€ 18.74,1,0,0,0,0,0,0,0,0,€ 2.81,1,0
+22-Mar-25,"Calle Campezo, 20, 28022 Madrid, España",42,€ 23.40,1,0,0,0,0,0,0,0,0,€ 11.70,1,0
+10-May-25,"Calle Campezo, 20, 28022 Madrid, España",40,€ 21.26,1,0,0,0,0,0,0,0,0,€ 6.38,1,0
+17-May-25,"Calle Campezo, 20, 28022 Madrid, España",50,€ 24.70,1,0,0,1,0,0,0,0,0,€ 3.70,2,0
+04-Jan-25,"Calle Campezo, 20, 28022 Madrid, España",19,€ 26.88,2,0,0,0,0,0,0,0,0,€ 26.88,2,0
+18-Jan-25,"Calle Campezo, 20, 28022 Madrid, España",32,€ 23.13,2,0,0,0,0,0,0,1,0,€ 23.13,2,1
+01-Feb-25,"Calle Campezo, 20, 28022 Madrid, España",36,€ 21.02,2,0,0,0,0,0,0,0,0,€ 21.02,2,0
+08-Feb-25,"Calle Campezo, 20, 28022 Madrid, España",36,€ 21.84,2,0,0,0,0,0,0,1,0,€ 13.10,2,1
+01-Mar-25,"Calle Campezo, 20, 28022 Madrid, España",39,€ 19.98,2,0,0,0,0,0,0,0,0,€ 5.99,2,0
+08-Mar-25,"Calle Campezo, 20, 28022 Madrid, España",45,€ 21.90,2,1,0,0,0,0,0,0,0,€ 13.14,3,0
+05-Apr-25,"Calle Campezo, 20, 28022 Madrid, España",31,€ 24.06,2,0,0,0,1,0,0,0,0,€ 24.06,2,1
+26-Apr-25,"Calle Campezo, 20, 28022 Madrid, España",51,€ 22.77,2,0,0,0,0,0,0,0,0,€ 22.77,2,0
+31-May-25,"Calle Campezo, 20, 28022 Madrid, España",53,€ 21.63,2,0,0,0,0,0,0,0,0,€ 21.63,2,0
+22-Feb-25,"Calle Campezo, 20, 28022 Madrid, España",43,€ 20.48,3,0,0,0,0,0,0,0,0,€ 18.43,3,0
+29-Mar-25,"Calle Campezo, 20, 28022 Madrid, España",49,€ 20.49,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+03-May-25,"Calle Campezo, 20, 28022 Madrid, España",48,€ 19.64,3,0,0,1,1,0,0,0,0,€ 17.68,4,1
+24-May-25,"Calle Campezo, 20, 28022 Madrid, España",61,€ 18.67,3,0,0,0,0,0,0,0,0,€ 16.80,3,0
+12-Apr-25,"Calle Campezo, 20, 28022 Madrid, España",38,€ 23.98,0,0,0,0,0,0,0,1,0,€ 0.00,0,1
+25-Jan-25,"Calle Campezo, 20, 28022 Madrid, España",35,€ 22.22,4,0,0,0,0,0,0,0,0,€ 13.33,4,0
+19-Apr-25,"Calle Campezo, 20, 28022 Madrid, España",32,€ 23.46,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+11-Jan-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",70,€ 22.93,1,0,0,1,0,0,0,0,0,€ 6.88,2,0
+15-Feb-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",200,€ 20.10,2,0,0,2,0,0,0,0,0,€ 20.10,4,0
+22-Feb-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",122,€ 19.00,2,1,0,1,0,0,0,0,0,€ 19.00,4,0
+15-Mar-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",127,€ 19.70,2,0,1,0,0,0,0,0,0,€ 19.70,3,0
+22-Mar-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",102,€ 19.12,2,0,0,1,0,0,0,0,0,€ 11.47,3,0
+19-Apr-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",94,€ 19.12,2,0,0,2,0,2,0,0,0,€ 19.12,4,2
+04-Jan-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",96,€ 20.14,3,0,0,2,1,0,0,0,0,€ 9.06,5,1
+01-Mar-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",144,€ 19.03,3,0,0,0,1,0,0,0,0,€ 8.56,3,1
+18-Jan-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",185,€ 19.50,4,0,0,1,0,0,0,1,1,€ 23.40,5,2
+08-Mar-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",134,€ 18.64,4,1,0,1,0,0,0,0,1,€ 11.18,6,1
+29-Mar-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",120,€ 20.62,4,1,0,1,1,0,0,0,0,€ 24.74,6,1
+12-Apr-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",91,€ 18.91,4,0,0,0,0,5,0,0,0,€ 37.82,4,5
+05-Apr-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",108,€ 18.97,5,0,0,0,0,0,0,0,0,€ 47.42,5,0
+28-Dec-20,"Calle de Alcalá, 300, 28027 Madrid, Spain",109,€ 20.39,6,0,0,4,0,0,0,1,1,€ 61.17,10,2
+25-Jan-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",160,€ 19.15,6,0,0,3,0,0,0,0,0,€ 17.24,9,0
+03-May-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",108,€ 19.39,8,0,0,0,1,1,0,0,0,€ 77.56,8,2
+01-Feb-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",184,€ 20.23,10,0,0,0,0,0,0,0,0,€ 101.15,10,0
+26-Apr-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",90,€ 20.18,10,0,0,0,1,2,0,0,0,€ 60.54,10,3
+08-Feb-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",171,€ 19.24,12,1,0,0,1,0,0,0,0,€ 34.63,13,1
+17-May-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",60,€ 19.88,12,0,0,0,0,1,0,0,0,€ 190.85,12,1
+31-May-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",50,€ 17.98,13,0,0,1,0,6,0,0,0,€ 116.87,14,6
+10-May-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",94,€ 18.63,14,0,0,0,0,4,0,0,0,€ 208.66,14,4
+24-May-25,"Calle de Alcalá, 300, 28027 Madrid, Spain",70,€ 18.13,15,0,0,0,0,3,0,0,0,€ 81.58,15,3
+25-Jan-25,"Calle de Gran Via, 100, 28027 Madrid, España",113,€ 20.00,1,0,0,0,0,0,0,0,0,€ 16.00,1,0
+08-Feb-25,"Calle de Gran Via, 100, 28027 Madrid, España",73,€ 22.31,1,0,0,0,0,0,0,0,0,€ 6.69,1,0
+11-Jan-25,"Calle de Gran Via, 100, 28027 Madrid, España",0,€ 0.00,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+08-Mar-25,"Calle de Gran Via, 100, 28027 Madrid, España",95,€ 19.98,1,0,0,0,0,0,0,0,2,€ 9.99,1,2
+22-Mar-25,"Calle de Gran Via, 100, 28027 Madrid, España",86,€ 20.89,1,1,1,0,0,0,0,0,0,€ 3.13,3,0
+12-Apr-25,"Calle de Gran Via, 100, 28027 Madrid, España",127,€ 19.89,1,0,0,0,1,0,0,0,0,€ 9.94,1,1
+24-May-25,"Calle de Gran Via, 100, 28027 Madrid, España",122,€ 19.45,1,0,0,0,0,0,0,0,0,€ 9.72,1,0
+15-Feb-25,"Calle de Gran Via, 100, 28027 Madrid, España",124,€ 19.05,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+26-Apr-25,"Calle de Gran Via, 100, 28027 Madrid, España",145,€ 18.24,2,0,1,0,0,0,0,0,0,€ 10.94,3,0
+17-May-25,"Calle de Gran Via, 100, 28027 Madrid, España",111,€ 18.03,2,0,0,0,0,0,0,0,0,€ 18.03,2,0
+31-May-25,"Calle de Gran Via, 100, 28027 Madrid, España",110,€ 20.20,2,0,0,0,0,0,0,0,0,€ 12.12,2,0
+04-Jan-25,"Calle de Gran Via, 100, 28027 Madrid, España",83,€ 23.56,3,0,1,0,0,0,0,0,0,€ 21.20,4,0
+01-Mar-25,"Calle de Gran Via, 100, 28027 Madrid, España",105,€ 20.89,3,1,0,2,0,0,0,0,0,€ 31.34,6,0
+29-Mar-25,"Calle de Gran Via, 100, 28027 Madrid, España",119,€ 21.38,0,1,0,0,0,0,0,0,0,€ 0.00,1,0
+19-Apr-25,"Calle de Gran Via, 100, 28027 Madrid, España",128,€ 20.32,3,0,1,0,0,0,0,0,0,€ 9.14,4,0
+03-May-25,"Calle de Gran Via, 100, 28027 Madrid, España",108,€ 20.66,3,0,0,0,0,0,0,0,0,€ 30.99,3,0
+05-Apr-25,"Calle de Gran Via, 100, 28027 Madrid, España",124,€ 18.24,0,1,0,1,0,0,0,0,0,€ 0.00,2,0
+10-May-25,"Calle de Gran Via, 100, 28027 Madrid, España",117,€ 18.33,3,0,0,0,0,0,0,0,0,€ 16.50,3,0
+28-Dec-20,"Calle de Gran Via, 100, 28027 Madrid, España",114,€ 22.81,4,0,0,0,0,0,0,0,0,€ 13.69,4,0
+18-Jan-25,"Calle de Gran Via, 100, 28027 Madrid, España",118,€ 20.30,4,0,0,0,0,0,0,0,0,€ 12.18,4,0
+22-Feb-25,"Calle de Gran Via, 100, 28027 Madrid, España",127,€ 20.12,4,0,0,0,0,0,0,0,0,€ 40.24,4,0
+01-Feb-25,"Calle de Gran Via, 100, 28027 Madrid, España",112,€ 21.68,6,0,0,0,0,0,0,0,0,€ 39.02,6,0
+15-Mar-25,"Calle de Gran Via, 100, 28027 Madrid, España",91,€ 21.52,7,0,0,0,0,0,0,0,0,€ 45.19,7,0
+28-Dec-20,"Calle de Bravo Murillo, 380, Madrid, Spain",88,€ 20.92,3,1,0,1,0,0,4,2,0,€ 18.83,5,6
+25-Jan-25,"Calle de Bravo Murillo, 380, Madrid, Spain",116,€ 18.62,3,1,0,0,0,0,1,0,0,€ 8.38,4,1
+10-May-25,"Calle de Bravo Murillo, 380, Madrid, Spain",90,€ 20.28,3,0,0,0,0,0,0,0,0,€ 18.25,3,0
+31-May-25,"Calle de Bravo Murillo, 380, Madrid, Spain",99,€ 20.15,3,0,0,0,0,0,0,0,0,€ 9.07,3,0
+01-Mar-25,"Calle de Bravo Murillo, 380, Madrid, Spain",114,€ 20.67,4,1,1,1,0,0,0,0,0,€ 41.34,7,0
+17-May-25,"Calle de Bravo Murillo, 380, Madrid, Spain",85,€ 18.79,4,0,0,1,0,0,0,0,0,€ 37.58,5,0
+11-Jan-25,"Calle de Bravo Murillo, 380, Madrid, Spain",46,€ 19.87,5,0,0,1,1,0,0,0,0,€ 14.90,6,1
+08-Mar-25,"Calle de Bravo Murillo, 380, Madrid, Spain",91,€ 18.65,5,0,1,2,0,0,1,0,0,€ 27.98,8,1
+29-Mar-25,"Calle de Bravo Murillo, 380, Madrid, Spain",94,€ 19.53,5,0,0,1,0,0,0,0,0,€ 48.82,6,0
+05-Apr-25,"Calle de Bravo Murillo, 380, Madrid, Spain",88,€ 21.12,5,1,0,0,0,0,0,0,0,€ 31.68,6,0
+22-Mar-25,"Calle de Bravo Murillo, 380, Madrid, Spain",88,€ 20.91,6,0,0,0,0,0,0,0,0,€ 62.73,6,0
+12-Apr-25,"Calle de Bravo Murillo, 380, Madrid, Spain",95,€ 18.19,6,1,0,1,0,1,0,0,2,€ 54.57,8,3
+19-Apr-25,"Calle de Bravo Murillo, 380, Madrid, Spain",97,€ 20.63,6,1,0,0,0,0,0,0,0,€ 18.57,7,0
+24-May-25,"Calle de Bravo Murillo, 380, Madrid, Spain",85,€ 19.39,6,0,0,0,0,0,0,0,0,€ 58.17,6,0
+04-Jan-25,"Calle de Bravo Murillo, 380, Madrid, Spain",124,€ 20.87,7,1,0,0,0,0,0,0,0,€ 73.04,8,0
+22-Feb-25,"Calle de Bravo Murillo, 380, Madrid, Spain",104,€ 19.45,7,0,0,0,0,0,5,0,1,€ 20.42,7,6
+03-May-25,"Calle de Bravo Murillo, 380, Madrid, Spain",109,€ 20.08,7,0,0,0,0,0,10,0,0,€ 70.28,7,10
+15-Feb-25,"Calle de Bravo Murillo, 380, Madrid, Spain",94,€ 20.25,8,0,0,1,0,0,0,0,0,€ 81.00,9,0
+15-Mar-25,"Calle de Bravo Murillo, 380, Madrid, Spain",104,€ 19.39,8,1,0,2,0,0,1,0,0,€ 23.27,11,1
+26-Apr-25,"Calle de Bravo Murillo, 380, Madrid, Spain",94,€ 18.77,9,0,0,1,0,0,0,0,0,€ 135.14,10,0
+08-Feb-25,"Calle de Bravo Murillo, 380, Madrid, Spain",127,€ 17.68,10,2,1,1,0,0,0,0,0,€ 26.52,14,0
+18-Jan-25,"Calle de Bravo Murillo, 380, Madrid, Spain",161,€ 18.75,12,0,0,1,0,0,6,4,4,€ 112.50,13,14
+01-Feb-25,"Calle de Bravo Murillo, 380, Madrid, Spain",168,€ 18.69,13,0,0,3,0,0,1,0,0,€ 72.89,16,1
+10-May-25,"Calle de la Fuente Carrantona, 50, 28030 Madrid, España",89,€ 19.43,3,0,0,1,0,0,0,0,0,€ 8.74,4,0
+17-May-25,"Calle de la Fuente Carrantona, 50, 28030 Madrid, España",75,€ 20.47,5,0,0,3,1,0,0,0,0,€ 15.35,8,1
+26-Apr-25,"Calle de la Fuente Carrantona, 50, 28030 Madrid, España",47,€ 22.82,6,0,0,0,0,0,0,0,1,€ 109.54,6,1
+03-May-25,"Calle de la Fuente Carrantona, 50, 28030 Madrid, España",101,€ 21.21,7,0,0,1,0,0,0,0,0,€ 22.27,8,0
+24-May-25,"Calle de la Fuente Carrantona, 50, 28030 Madrid, España",24,€ 19.63,0,0,0,0,0,0,0,0,1,€ 0.00,0,1
+11-Jan-25,"Calle de Maqueda, 100, Madrid, Spain",31,€ 24.15,0,0,0,0,1,0,0,0,0,€ 0.00,0,1
+15-Mar-25,"Calle de Maqueda, 100, Madrid, Spain",105,€ 18.90,2,0,0,1,0,0,0,0,0,€ 18.90,3,0
+22-Mar-25,"Calle de Maqueda, 100, Madrid, Spain",92,€ 19.90,2,0,0,0,0,0,0,0,0,€ 11.94,2,0
+08-Mar-25,"Calle de Maqueda, 100, Madrid, Spain",107,€ 19.06,3,0,0,1,0,0,0,0,0,€ 28.59,4,0
+05-Apr-25,"Calle de Maqueda, 100, Madrid, Spain",111,€ 21.35,3,0,0,0,0,0,0,0,0,€ 19.22,3,0
+19-Apr-25,"Calle de Maqueda, 100, Madrid, Spain",107,€ 19.77,3,0,0,1,0,0,0,0,0,€ 29.66,4,0
+03-May-25,"Calle de Maqueda, 100, Madrid, Spain",129,€ 19.67,5,0,0,0,0,0,0,0,0,€ 29.50,5,0
+25-Jan-25,"Calle de Maqueda, 100, Madrid, Spain",161,€ 20.18,6,1,0,2,0,0,0,0,0,€ 60.54,9,0
+08-Feb-25,"Calle de Maqueda, 100, Madrid, Spain",166,€ 22.28,6,1,0,1,1,0,0,1,0,€ 20.05,8,2
+22-Feb-25,"Calle de Maqueda, 100, Madrid, Spain",125,€ 22.45,6,0,0,0,0,0,0,0,0,€ 67.35,6,0
+29-Mar-25,"Calle de Maqueda, 100, Madrid, Spain",111,€ 21.21,6,0,0,1,0,0,0,0,0,€ 19.09,7,0
+15-Feb-25,"Calle de Maqueda, 100, Madrid, Spain",116,€ 19.22,7,0,0,1,0,0,0,0,0,€ 67.27,8,0
+18-Jan-25,"Calle de Maqueda, 100, Madrid, Spain",189,€ 20.20,8,0,0,1,0,0,0,0,0,€ 48.48,9,0
+01-Feb-25,"Calle de Maqueda, 100, Madrid, Spain",178,€ 19.52,8,0,2,0,0,0,0,0,0,€ 46.85,10,0
+28-Dec-20,"Calle de Maqueda, 100, Madrid, Spain",175,€ 22.93,9,0,0,4,0,0,0,0,0,€ 30.96,13,0
+17-May-25,"Calle de Maqueda, 100, Madrid, Spain",98,€ 20.41,10,0,0,0,0,0,0,0,0,€ 163.28,10,0
+12-Apr-25,"Calle de Maqueda, 100, Madrid, Spain",107,€ 20.00,12,1,2,0,0,0,0,0,0,€ 72.00,15,0
+04-Jan-25,"Calle de Maqueda, 100, Madrid, Spain",152,€ 22.37,14,0,1,4,0,0,0,0,0,€ 46.98,19,0
+01-Mar-25,"Calle de Maqueda, 100, Madrid, Spain",127,€ 20.60,14,0,0,1,0,0,0,0,0,€ 86.52,15,0
+26-Apr-25,"Calle de Maqueda, 100, Madrid, Spain",118,€ 20.43,15,0,0,0,0,0,0,0,0,€ 45.97,15,0
+31-May-25,"Calle de Maqueda, 100, Madrid, Spain",115,€ 19.22,20,0,0,1,0,0,0,0,0,€ 192.20,21,0
+24-May-25,"Calle de Maqueda, 100, Madrid, Spain",112,€ 19.38,27,0,0,0,0,1,0,0,0,€ 78.49,27,1
+10-May-25,"Calle de Maqueda, 100, Madrid, Spain",125,€ 19.40,30,0,0,1,0,0,0,0,0,€ 465.60,31,0
+11-Jan-25,"Calle de San Bernardo, 80, Madrid, Spain",37,€ 17.00,1,0,0,0,0,0,0,0,0,€ 8.50,1,0
+08-Feb-25,"Calle de San Bernardo, 80, Madrid, Spain",85,€ 18.60,1,0,1,0,0,0,0,0,0,€ 9.30,2,0
+15-Feb-25,"Calle de San Bernardo, 80, Madrid, Spain",49,€ 19.17,1,1,0,3,0,0,0,0,0,€ 5.75,5,0
+01-Mar-25,"Calle de San Bernardo, 80, Madrid, Spain",55,€ 16.61,1,0,0,0,1,0,0,0,0,€ 2.49,1,1
+15-Mar-25,"Calle de San Bernardo, 80, Madrid, Spain",57,€ 18.05,1,1,0,0,0,0,0,0,0,€ 5.42,2,0
+22-Mar-25,"Calle de San Bernardo, 80, Madrid, Spain",42,€ 14.61,1,0,0,0,0,0,0,0,0,€ 4.38,1,0
+10-May-25,"Calle de San Bernardo, 80, Madrid, Spain",51,€ 18.44,1,0,0,0,0,0,0,0,0,€ 2.77,1,0
+17-May-25,"Calle de San Bernardo, 80, Madrid, Spain",42,€ 16.74,1,0,0,0,0,0,0,0,0,€ 8.37,1,0
+24-May-25,"Calle de San Bernardo, 80, Madrid, Spain",32,€ 16.88,1,0,0,1,0,0,0,1,0,€ 2.53,2,1
+04-Jan-25,"Calle de San Bernardo, 80, Madrid, Spain",52,€ 15.83,2,0,0,0,0,0,0,0,0,€ 4.75,2,0
+18-Jan-25,"Calle de San Bernardo, 80, Madrid, Spain",93,€ 17.60,2,0,0,2,0,0,1,0,0,€ 17.60,4,1
+05-Apr-25,"Calle de San Bernardo, 80, Madrid, Spain",44,€ 19.41,2,0,0,0,0,0,0,0,0,€ 5.82,2,0
+22-Feb-25,"Calle de San Bernardo, 80, Madrid, Spain",54,€ 17.20,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+19-Apr-25,"Calle de San Bernardo, 80, Madrid, Spain",53,€ 16.62,2,0,0,0,1,1,0,0,0,€ 16.62,2,2
+26-Apr-25,"Calle de San Bernardo, 80, Madrid, Spain",42,€ 18.06,2,0,0,0,0,0,0,0,0,€ 10.84,2,0
+08-Mar-25,"Calle de San Bernardo, 80, Madrid, Spain",51,€ 18.03,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+28-Dec-20,"Calle de San Bernardo, 80, Madrid, Spain",83,€ 20.61,3,0,0,3,1,0,0,0,0,€ 30.92,6,1
+25-Jan-25,"Calle de San Bernardo, 80, Madrid, Spain",90,€ 17.91,3,0,0,0,1,0,0,0,0,€ 8.06,3,1
+29-Mar-25,"Calle de San Bernardo, 80, Madrid, Spain",56,€ 20.47,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+03-May-25,"Calle de San Bernardo, 80, Madrid, Spain",68,€ 17.02,3,0,2,0,0,0,0,0,0,€ 7.66,5,0
+12-Apr-25,"Calle de San Bernardo, 80, Madrid, Spain",39,€ 16.44,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+01-Feb-25,"Calle de San Bernardo, 80, Madrid, Spain",92,€ 16.99,7,0,0,1,0,0,1,0,0,€ 35.68,8,1
+08-Feb-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",123,€ 17.50,1,0,0,1,0,0,0,0,0,€ 2.62,2,0
+04-Jan-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",104,€ 20.15,0,0,0,1,0,0,0,0,0,€ 0.00,1,0
+11-Jan-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",65,€ 21.12,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+22-Mar-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",114,€ 18.10,1,0,0,1,0,0,0,0,0,€ 9.05,2,0
+19-Apr-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",98,€ 16.71,1,0,0,0,0,0,0,0,0,€ 8.36,1,0
+26-Apr-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",123,€ 16.16,1,0,1,0,0,0,0,0,1,€ 2.42,2,1
+03-May-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",183,€ 16.58,1,0,0,0,1,0,0,0,0,€ 2.49,1,1
+28-Dec-20,"Calle de Sta Engracia, 100, 28003 Madrid, España",106,€ 18.05,2,1,0,1,0,0,0,0,0,€ 18.05,4,0
+18-Jan-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",220,€ 17.23,2,0,0,1,1,0,0,0,1,€ 10.34,3,2
+12-Apr-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",110,€ 16.42,2,0,0,0,0,0,0,0,0,€ 4.93,2,0
+10-May-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",209,€ 17.07,2,0,0,1,1,0,0,0,0,€ 17.07,3,1
+24-May-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",169,€ 16.35,2,0,0,0,1,0,0,0,0,€ 16.35,2,1
+15-Mar-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",128,€ 17.72,0,0,0,0,1,0,0,0,0,€ 0.00,0,1
+25-Jan-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",190,€ 16.55,3,0,0,0,0,0,0,0,1,€ 14.90,3,1
+01-Feb-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",170,€ 16.91,3,0,0,0,0,0,0,0,0,€ 7.61,3,0
+05-Apr-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",103,€ 18.04,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+15-Feb-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",138,€ 16.93,4,0,0,0,0,0,0,0,0,€ 20.32,4,0
+22-Feb-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",190,€ 16.07,4,0,0,0,0,0,0,0,0,€ 9.64,4,0
+01-Mar-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",242,€ 16.69,5,1,0,1,2,0,0,0,0,€ 41.72,7,2
+29-Mar-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",121,€ 17.55,5,0,0,3,0,0,0,0,0,€ 26.32,8,0
+17-May-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",160,€ 17.25,5,0,0,0,0,0,0,0,0,€ 43.12,5,0
+08-Mar-25,"Calle de Sta Engracia, 100, 28003 Madrid, España",184,€ 16.55,6,1,0,1,0,0,0,0,0,€ 29.79,8,0
+04-Jan-25,"Calle de Valencia, 18, 28012 Madrid, España",77,€ 17.75,1,0,0,0,0,0,0,0,0,€ 8.88,1,0
+01-Mar-25,"Calle de Valencia, 18, 28012 Madrid, España",116,€ 17.81,1,0,0,0,0,0,0,0,0,€ 8.90,1,0
+11-Jan-25,"Calle de Valencia, 18, 28012 Madrid, España",30,€ 19.73,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+18-Jan-25,"Calle de Valencia, 18, 28012 Madrid, España",119,€ 16.96,2,0,0,1,0,0,0,0,0,€ 10.18,3,0
+08-Mar-25,"Calle de Valencia, 18, 28012 Madrid, España",114,€ 16.43,2,1,0,1,0,0,0,0,0,€ 9.86,4,0
+19-Apr-25,"Calle de Valencia, 18, 28012 Madrid, España",70,€ 18.60,2,1,0,1,1,0,0,0,0,€ 11.16,4,1
+17-May-25,"Calle de Valencia, 18, 28012 Madrid, España",93,€ 17.77,2,0,0,0,0,0,0,0,0,€ 10.66,2,0
+24-May-25,"Calle de Valencia, 18, 28012 Madrid, España",65,€ 17.00,2,0,0,1,0,0,0,0,0,€ 10.20,3,0
+01-Feb-25,"Calle de Valencia, 18, 28012 Madrid, España",135,€ 16.45,3,0,0,0,0,0,0,0,0,€ 24.68,3,0
+22-Feb-25,"Calle de Valencia, 18, 28012 Madrid, España",86,€ 17.25,3,0,0,1,0,0,0,0,0,€ 7.76,4,0
+22-Mar-25,"Calle de Valencia, 18, 28012 Madrid, España",80,€ 16.50,3,0,0,0,0,0,0,0,0,€ 24.75,3,0
+12-Apr-25,"Calle de Valencia, 18, 28012 Madrid, España",104,€ 17.37,3,0,0,0,0,0,0,0,0,€ 26.06,3,0
+26-Apr-25,"Calle de Valencia, 18, 28012 Madrid, España",74,€ 17.71,3,0,1,1,0,0,0,0,0,€ 7.97,5,0
+05-Apr-25,"Calle de Valencia, 18, 28012 Madrid, España",101,€ 17.42,0,1,0,1,0,0,0,0,0,€ 0.00,2,0
+25-Jan-25,"Calle de Valencia, 18, 28012 Madrid, España",105,€ 16.70,4,0,0,0,0,0,0,0,0,€ 33.40,4,0
+08-Feb-25,"Calle de Valencia, 18, 28012 Madrid, España",102,€ 17.48,4,0,0,0,0,0,0,0,0,€ 10.49,4,0
+15-Mar-25,"Calle de Valencia, 18, 28012 Madrid, España",91,€ 17.65,4,0,0,0,0,0,0,0,0,€ 35.30,4,0
+29-Mar-25,"Calle de Valencia, 18, 28012 Madrid, España",118,€ 18.54,4,0,0,1,1,0,0,0,0,€ 37.08,5,1
+10-May-25,"Calle de Valencia, 18, 28012 Madrid, España",125,€ 16.16,4,0,0,0,0,0,0,0,0,€ 32.32,4,0
+15-Feb-25,"Calle de Valencia, 18, 28012 Madrid, España",81,€ 15.63,5,0,0,1,0,0,0,0,0,€ 39.08,6,0
+03-May-25,"Calle de Valencia, 18, 28012 Madrid, España",105,€ 16.23,0,0,0,0,0,0,0,0,1,€ 0.00,0,1
+28-Dec-20,"Calle de Valencia, 18, 28012 Madrid, España",59,€ 19.79,6,0,0,0,0,0,0,0,0,€ 35.62,6,0
+04-Jan-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",23,€ 29.42,1,0,0,0,0,0,0,0,0,€ 14.71,1,0
+28-Dec-20,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",40,€ 26.82,0,0,0,0,1,0,0,0,0,€ 0.00,0,1
+18-Jan-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",60,€ 20.00,1,0,0,0,0,0,0,0,0,€ 6.00,1,0
+08-Feb-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",38,€ 24.63,1,0,0,0,0,0,0,0,0,€ 7.39,1,0
+15-Feb-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",40,€ 23.51,1,0,0,0,0,0,0,0,0,€ 11.76,1,0
+11-Jan-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",7,€ 19.28,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+22-Feb-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",36,€ 20.44,1,0,0,0,0,0,0,0,0,€ 10.22,1,0
+15-Mar-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",34,€ 24.63,1,0,0,0,0,0,0,0,0,€ 12.32,1,0
+12-Apr-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",37,€ 20.29,1,0,0,0,0,0,0,0,0,€ 3.04,1,0
+03-May-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",34,€ 20.74,1,0,0,0,0,0,0,0,0,€ 10.37,1,0
+01-Feb-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",46,€ 23.09,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+24-May-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",41,€ 25.61,1,0,0,0,0,0,0,0,0,€ 7.68,1,0
+25-Jan-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",38,€ 20.34,2,0,0,0,0,0,0,0,0,€ 12.20,2,0
+08-Mar-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",37,€ 19.47,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+01-Mar-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",36,€ 20.90,3,0,0,0,0,0,0,0,0,€ 9.40,3,0
+22-Mar-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",37,€ 24.44,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+29-Mar-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",46,€ 22.86,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+05-Apr-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",21,€ 23.41,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+19-Apr-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",30,€ 21.81,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+26-Apr-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",35,€ 22.75,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+10-May-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",36,€ 21.55,0,0,0,0,1,0,0,0,0,€ 0.00,0,1
+17-May-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",36,€ 18.22,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+31-May-25,"Calle Edgar Neville, 2, 28223 Pozuelo de Alarcón, Madrid, España",43,€ 16.93,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+04-Jan-25,"Calle Gran Vía, 200, Madrid, Spain",67,€ 16.67,1,0,0,0,0,0,0,0,0,€ 5.00,1,0
+03-May-25,"Calle Gran Vía, 200, Madrid, Spain",89,€ 18.30,1,0,0,1,0,0,0,0,0,€ 9.15,2,0
+17-May-25,"Calle Gran Vía, 200, Madrid, Spain",60,€ 18.48,1,0,0,0,0,0,0,0,0,€ 2.77,1,0
+31-May-25,"Calle Gran Vía, 200, Madrid, Spain",66,€ 16.38,1,0,0,1,0,0,0,0,0,€ 4.91,2,0
+15-Feb-25,"Calle Gran Vía, 200, Madrid, Spain",89,€ 16.44,2,0,0,2,0,0,0,0,0,€ 4.93,4,0
+08-Mar-25,"Calle Gran Vía, 200, Madrid, Spain",57,€ 19.03,2,0,0,1,0,0,0,0,0,€ 5.71,3,0
+15-Mar-25,"Calle Gran Vía, 200, Madrid, Spain",95,€ 17.71,2,0,0,0,0,0,0,0,0,€ 10.63,2,0
+12-Apr-25,"Calle Gran Vía, 200, Madrid, Spain",50,€ 16.88,2,0,0,1,0,0,0,0,0,€ 16.88,3,0
+01-Mar-25,"Calle Gran Vía, 200, Madrid, Spain",64,€ 17.91,0,0,0,1,0,0,0,0,0,€ 0.00,1,0
+28-Dec-20,"Calle Gran Vía, 200, Madrid, Spain",110,€ 19.82,3,1,0,0,1,0,0,0,0,€ 29.73,4,1
+11-Jan-25,"Calle Gran Vía, 200, Madrid, Spain",43,€ 19.77,3,0,0,0,0,0,0,0,0,€ 17.79,3,0
+25-Jan-25,"Calle Gran Vía, 200, Madrid, Spain",119,€ 17.97,3,0,0,0,1,0,0,0,0,€ 26.96,3,1
+08-Feb-25,"Calle Gran Vía, 200, Madrid, Spain",98,€ 16.75,3,0,1,2,0,0,0,0,0,€ 7.54,6,0
+22-Mar-25,"Calle Gran Vía, 200, Madrid, Spain",59,€ 16.64,0,0,0,1,0,0,0,0,0,€ 0.00,1,0
+29-Mar-25,"Calle Gran Vía, 200, Madrid, Spain",64,€ 15.78,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+19-Apr-25,"Calle Gran Vía, 200, Madrid, Spain",78,€ 20.11,3,0,0,0,0,0,0,0,0,€ 18.10,3,0
+26-Apr-25,"Calle Gran Vía, 200, Madrid, Spain",66,€ 15.71,3,0,0,0,0,0,0,0,0,€ 23.56,3,0
+05-Apr-25,"Calle Gran Vía, 200, Madrid, Spain",55,€ 17.22,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+10-May-25,"Calle Gran Vía, 200, Madrid, Spain",61,€ 18.53,4,0,0,1,0,0,0,0,0,€ 11.12,5,0
+22-Feb-25,"Calle Gran Vía, 200, Madrid, Spain",66,€ 17.02,5,0,0,0,0,0,0,0,0,€ 25.53,5,0
+18-Jan-25,"Calle Gran Vía, 200, Madrid, Spain",148,€ 16.74,8,0,1,2,0,0,0,0,0,€ 66.96,11,0
+01-Feb-25,"Calle Gran Vía, 200, Madrid, Spain",167,€ 17.87,8,0,0,1,0,0,0,0,0,€ 21.44,9,0
+24-May-25,"Calle Gran Vía, 200, Madrid, Spain",60,€ 17.17,0,0,0,0,1,0,0,0,0,€ 0.00,0,1
+04-Jan-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",12,€ 28.10,1,0,0,0,0,0,0,2,0,€ 8.43,1,2
+28-Dec-20,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",12,€ 24.62,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+01-Feb-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",31,€ 17.01,1,0,0,0,0,0,0,0,0,€ 8.50,1,0
+08-Feb-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",13,€ 20.10,1,0,0,0,0,0,0,0,0,€ 3.02,1,0
+22-Feb-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",20,€ 21.98,1,0,0,0,0,0,0,0,0,€ 10.99,1,0
+11-Jan-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",4,€ 25.11,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+15-Mar-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",13,€ 27.56,1,0,0,0,0,0,0,0,0,€ 8.27,1,0
+18-Jan-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",31,€ 21.55,0,0,0,0,0,0,0,0,1,€ 0.00,0,1
+05-Apr-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",26,€ 20.25,1,0,0,0,0,0,0,0,0,€ 10.12,1,0
+12-Apr-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",21,€ 21.23,1,0,0,0,0,0,0,0,0,€ 3.18,1,0
+19-Apr-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",17,€ 21.06,1,0,0,0,1,0,0,0,0,€ 6.32,1,1
+25-Jan-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",22,€ 18.15,0,0,0,1,0,0,0,0,0,€ 0.00,1,0
+24-May-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",13,€ 22.08,1,0,0,0,0,0,0,0,0,€ 6.62,1,0
+31-May-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",15,€ 22.50,1,0,0,0,0,0,0,0,0,€ 3.38,1,0
+15-Feb-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",19,€ 23.31,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+22-Mar-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",19,€ 22.47,2,0,0,0,0,0,0,0,0,€ 6.74,2,0
+29-Mar-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",15,€ 24.17,2,0,0,0,0,0,0,0,0,€ 7.25,2,0
+01-Mar-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",19,€ 20.15,0,1,0,0,0,0,0,0,0,€ 0.00,1,0
+03-May-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",21,€ 23.44,2,0,0,0,0,0,0,0,0,€ 14.06,2,0
+10-May-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",17,€ 20.87,2,0,0,0,0,0,0,0,0,€ 6.26,2,0
+08-Mar-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",17,€ 19.66,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+26-Apr-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",19,€ 30.86,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+17-May-25,"Calle Salvador de Madariaga, San Sebastián de los Reyes, Spain",8,€ 26.83,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+11-Jan-25,"Calle Serrano Jover, 5, 28015 Madrid, España",12,€ 14.41,0,0,0,0,0,0,0,0,1,€ 0.00,0,1
+26-Apr-25,"Calle Serrano Jover, 5, 28015 Madrid, España",30,€ 17.56,1,0,0,0,0,0,0,0,0,€ 5.27,1,0
+17-May-25,"Calle Serrano Jover, 5, 28015 Madrid, España",41,€ 15.79,1,0,1,0,0,0,0,1,0,€ 2.37,2,1
+24-May-25,"Calle Serrano Jover, 5, 28015 Madrid, España",53,€ 15.64,1,0,0,0,1,0,0,0,0,€ 7.82,1,1
+28-Dec-20,"Calle Serrano Jover, 5, 28015 Madrid, España",22,€ 19.37,2,0,0,0,0,0,0,1,0,€ 11.62,2,1
+08-Feb-25,"Calle Serrano Jover, 5, 28015 Madrid, España",62,€ 16.17,2,0,0,1,2,0,0,0,0,€ 9.70,3,2
+08-Mar-25,"Calle Serrano Jover, 5, 28015 Madrid, España",37,€ 19.36,2,0,0,0,0,0,0,0,0,€ 19.36,2,0
+22-Mar-25,"Calle Serrano Jover, 5, 28015 Madrid, España",55,€ 14.48,2,0,0,0,0,0,0,0,0,€ 14.48,2,0
+29-Mar-25,"Calle Serrano Jover, 5, 28015 Madrid, España",36,€ 16.01,2,0,0,0,0,0,0,0,0,€ 16.01,2,0
+03-May-25,"Calle Serrano Jover, 5, 28015 Madrid, España",49,€ 17.83,2,0,0,0,0,0,0,0,0,€ 5.35,2,0
+15-Feb-25,"Calle Serrano Jover, 5, 28015 Madrid, España",59,€ 16.41,3,0,0,0,0,0,0,0,0,€ 14.77,3,0
+01-Mar-25,"Calle Serrano Jover, 5, 28015 Madrid, España",36,€ 17.36,3,0,0,0,0,0,0,0,0,€ 15.62,3,0
+04-Jan-25,"Calle Serrano Jover, 5, 28015 Madrid, España",53,€ 17.85,4,0,1,0,0,0,0,0,0,€ 10.71,5,0
+18-Jan-25,"Calle Serrano Jover, 5, 28015 Madrid, España",76,€ 16.48,4,0,1,0,0,2,0,1,0,€ 19.78,5,3
+19-Apr-25,"Calle Serrano Jover, 5, 28015 Madrid, España",32,€ 15.98,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+12-Apr-25,"Calle Serrano Jover, 5, 28015 Madrid, España",42,€ 16.18,4,0,0,2,0,0,0,0,0,€ 9.71,6,0
+10-May-25,"Calle Serrano Jover, 5, 28015 Madrid, España",57,€ 17.59,4,0,0,0,0,0,0,0,0,€ 21.11,4,0
+25-Jan-25,"Calle Serrano Jover, 5, 28015 Madrid, España",77,€ 16.26,5,2,0,1,0,0,0,0,0,€ 24.39,8,0
+22-Feb-25,"Calle Serrano Jover, 5, 28015 Madrid, España",46,€ 18.30,5,0,0,0,0,0,0,0,0,€ 13.72,5,0
+15-Mar-25,"Calle Serrano Jover, 5, 28015 Madrid, España",50,€ 15.76,5,0,0,0,0,0,1,0,0,€ 11.82,5,1
+05-Apr-25,"Calle Serrano Jover, 5, 28015 Madrid, España",40,€ 19.26,5,0,0,2,0,0,0,0,0,€ 14.44,7,0
+31-May-25,"Calle Serrano Jover, 5, 28015 Madrid, España",34,€ 19.79,5,0,0,1,0,0,0,2,2,€ 29.68,6,4
+01-Feb-25,"Calle Serrano Jover, 5, 28015 Madrid, España",77,€ 16.16,9,0,0,1,0,0,0,0,0,€ 21.82,10,0
+11-Jan-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",5,€ 19.13,1,0,0,1,0,0,0,0,0,€ 2.87,2,0
+01-Mar-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",40,€ 18.78,1,0,0,0,0,0,0,0,0,€ 2.82,1,0
+26-Apr-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",51,€ 22.67,1,0,0,0,0,0,0,0,0,€ 11.34,1,0
+24-May-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",40,€ 19.00,1,0,0,0,0,0,0,0,0,€ 5.70,1,0
+25-Jan-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",36,€ 18.62,2,0,0,0,0,0,0,0,0,€ 5.59,2,0
+22-Feb-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",34,€ 20.46,2,0,0,1,0,0,0,0,0,€ 6.14,3,0
+22-Mar-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",36,€ 17.84,2,0,0,0,0,0,0,0,0,€ 5.35,2,0
+05-Apr-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",50,€ 19.78,2,0,0,0,0,0,0,0,0,€ 5.93,2,0
+04-Jan-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",58,€ 22.33,3,0,0,0,0,0,0,0,0,€ 33.50,3,0
+01-Feb-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",44,€ 18.93,3,0,0,0,0,0,0,0,0,€ 17.04,3,0
+08-Feb-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",52,€ 19.88,3,0,0,0,0,0,0,0,0,€ 29.82,3,0
+15-Feb-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",42,€ 17.29,3,1,0,1,0,0,0,0,1,€ 25.94,5,1
+12-Apr-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",40,€ 23.26,3,0,0,0,0,0,0,0,0,€ 34.89,3,0
+10-May-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",51,€ 17.37,3,0,0,0,0,0,0,0,0,€ 26.06,3,0
+08-Mar-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",43,€ 20.07,4,0,0,0,0,0,0,0,0,€ 24.08,4,0
+15-Mar-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",44,€ 20.25,4,0,0,2,0,0,0,0,0,€ 12.15,6,0
+29-Mar-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",51,€ 21.94,4,2,0,2,0,0,0,0,0,€ 13.16,8,0
+03-May-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",52,€ 20.49,4,0,0,1,0,0,0,0,0,€ 40.98,5,0
+28-Dec-20,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",37,€ 18.15,6,0,0,0,0,0,1,0,0,€ 16.34,6,1
+19-Apr-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",41,€ 20.16,6,0,0,1,0,0,0,0,0,€ 36.29,7,0
+17-May-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",52,€ 20.32,0,0,0,1,0,0,0,0,0,€ 0.00,1,0
+18-Jan-25,"Parque Comercial Megapark Plaza Norte 2, Plaza del Comercio, San Sebastián de los Reyes, Madrid, Spain",64,€ 20.91,13,0,0,1,0,0,0,1,0,€ 40.77,14,1
+26-Apr-25,"Paseo de la Castellana, 200, Madrid, Spain",48,€ 21.91,1,0,0,1,0,0,0,0,0,€ 6.57,2,0
+10-May-25,"Paseo de la Castellana, 200, Madrid, Spain",57,€ 19.20,1,0,0,0,1,0,0,0,0,€ 5.76,1,1
+17-May-25,"Paseo de la Castellana, 200, Madrid, Spain",36,€ 18.11,1,0,0,0,0,0,0,0,0,€ 5.43,1,0
+11-Jan-25,"Paseo de la Castellana, 200, Madrid, Spain",50,€ 20.52,2,0,0,0,0,0,0,0,0,€ 6.16,2,0
+01-Mar-25,"Paseo de la Castellana, 200, Madrid, Spain",43,€ 15.84,2,0,0,0,0,0,0,0,0,€ 15.84,2,0
+15-Feb-25,"Paseo de la Castellana, 200, Madrid, Spain",57,€ 17.81,0,0,0,1,0,0,0,0,0,€ 0.00,1,0
+22-Mar-25,"Paseo de la Castellana, 200, Madrid, Spain",48,€ 18.99,2,0,0,1,0,0,0,0,0,€ 11.39,3,0
+22-Feb-25,"Paseo de la Castellana, 200, Madrid, Spain",45,€ 17.11,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+12-Apr-25,"Paseo de la Castellana, 200, Madrid, Spain",47,€ 19.42,2,0,0,0,0,0,0,0,0,€ 11.65,2,0
+19-Apr-25,"Paseo de la Castellana, 200, Madrid, Spain",40,€ 16.39,2,0,0,0,0,0,0,0,0,€ 4.92,2,0
+24-May-25,"Paseo de la Castellana, 200, Madrid, Spain",44,€ 15.50,2,0,1,1,0,0,0,0,0,€ 4.65,4,0
+31-May-25,"Paseo de la Castellana, 200, Madrid, Spain",51,€ 16.71,2,0,0,0,0,0,0,0,0,€ 5.01,2,0
+08-Mar-25,"Paseo de la Castellana, 200, Madrid, Spain",52,€ 18.88,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+04-Jan-25,"Paseo de la Castellana, 200, Madrid, Spain",49,€ 21.39,3,0,0,1,0,0,0,0,0,€ 9.63,4,0
+15-Mar-25,"Paseo de la Castellana, 200, Madrid, Spain",56,€ 16.73,0,0,0,1,0,0,0,0,0,€ 0.00,1,0
+25-Jan-25,"Paseo de la Castellana, 200, Madrid, Spain",73,€ 18.46,3,0,0,0,0,0,0,0,0,€ 27.69,3,0
+29-Mar-25,"Paseo de la Castellana, 200, Madrid, Spain",50,€ 19.71,3,0,0,0,1,0,0,0,0,€ 8.87,3,1
+05-Apr-25,"Paseo de la Castellana, 200, Madrid, Spain",38,€ 20.66,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+03-May-25,"Paseo de la Castellana, 200, Madrid, Spain",52,€ 18.98,3,0,0,0,1,0,0,0,0,€ 28.47,3,1
+28-Dec-20,"Paseo de la Castellana, 200, Madrid, Spain",29,€ 22.23,4,0,0,0,0,0,0,0,0,€ 26.68,4,0
+18-Jan-25,"Paseo de la Castellana, 200, Madrid, Spain",101,€ 18.89,4,0,0,1,1,0,0,0,0,€ 37.78,5,1
+01-Feb-25,"Paseo de la Castellana, 200, Madrid, Spain",109,€ 16.29,4,0,0,0,0,0,0,0,0,€ 19.55,4,0
+08-Feb-25,"Paseo de la Castellana, 200, Madrid, Spain",76,€ 18.60,5,0,0,1,1,0,0,0,0,€ 27.90,6,1
+28-Dec-20,"Calle de Alcantara, 14, Madrid, Spain",50,€ 17.98,1,0,0,1,0,0,0,0,0,€ 2.70,2,0
+04-Jan-25,"Calle de Alcantara, 14, Madrid, Spain",141,€ 20.24,2,1,0,1,0,0,0,0,0,€ 12.14,4,0
+01-Mar-25,"Calle de Alcantara, 14, Madrid, Spain",83,€ 18.59,2,0,0,0,0,0,0,0,0,€ 11.15,2,0
+26-Apr-25,"Calle de Alcantara, 14, Madrid, Spain",99,€ 18.48,2,0,0,0,0,0,0,0,0,€ 18.48,2,0
+08-Mar-25,"Calle de Alcantara, 14, Madrid, Spain",98,€ 18.49,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+22-Mar-25,"Calle de Alcantara, 14, Madrid, Spain",99,€ 17.47,3,0,0,1,0,0,0,0,0,€ 7.86,4,0
+12-Apr-25,"Calle de Alcantara, 14, Madrid, Spain",98,€ 18.15,3,0,0,0,0,0,0,0,0,€ 8.17,3,0
+24-May-25,"Calle de Alcantara, 14, Madrid, Spain",108,€ 19.53,3,0,0,0,0,0,0,1,0,€ 8.79,3,1
+19-Apr-25,"Calle de Alcantara, 14, Madrid, Spain",99,€ 16.69,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+17-May-25,"Calle de Alcantara, 14, Madrid, Spain",115,€ 18.02,4,0,0,1,0,0,0,0,0,€ 10.81,5,0
+08-Feb-25,"Calle de Alcantara, 14, Madrid, Spain",138,€ 19.10,5,0,0,0,0,0,0,0,0,€ 14.32,5,0
+15-Mar-25,"Calle de Alcantara, 14, Madrid, Spain",98,€ 18.69,5,0,0,0,1,0,0,0,0,€ 46.72,5,1
+03-May-25,"Calle de Alcantara, 14, Madrid, Spain",120,€ 18.82,5,0,0,1,0,0,0,0,0,€ 14.12,6,0
+01-Feb-25,"Calle de Alcantara, 14, Madrid, Spain",130,€ 17.77,6,0,0,0,0,0,0,0,0,€ 53.31,6,0
+15-Feb-25,"Calle de Alcantara, 14, Madrid, Spain",106,€ 18.33,6,0,0,0,0,0,0,0,0,€ 32.99,6,0
+22-Feb-25,"Calle de Alcantara, 14, Madrid, Spain",102,€ 20.06,6,0,0,0,0,0,0,0,0,€ 18.05,6,0
+29-Mar-25,"Calle de Alcantara, 14, Madrid, Spain",85,€ 20.93,6,0,0,0,1,0,0,0,1,€ 37.67,6,2
+10-May-25,"Calle de Alcantara, 14, Madrid, Spain",128,€ 19.09,6,0,0,1,0,0,0,0,0,€ 34.36,7,0
+31-May-25,"Calle de Alcantara, 14, Madrid, Spain",122,€ 17.80,6,0,1,1,0,0,0,0,0,€ 32.04,8,0
+11-Jan-25,"Calle de Alcantara, 14, Madrid, Spain",81,€ 19.05,7,0,0,0,0,0,0,0,0,€ 20.00,7,0
+05-Apr-25,"Calle de Alcantara, 14, Madrid, Spain",95,€ 19.17,8,0,0,0,0,0,0,0,0,€ 46.01,8,0
+25-Jan-25,"Calle de Alcantara, 14, Madrid, Spain",147,€ 18.23,11,0,0,1,0,0,0,0,0,€ 30.08,12,0
+18-Jan-25,"Calle de Alcantara, 14, Madrid, Spain",196,€ 17.25,12,0,0,0,1,0,0,0,0,€ 62.10,12,1
+28-Dec-20,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",19,€ 18.39,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+04-Jan-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",39,€ 20.76,1,0,0,1,0,0,0,0,0,€ 16.61,2,0
+11-Jan-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",16,€ 20.63,1,0,0,0,0,0,0,0,0,€ 16.50,1,0
+01-Feb-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",26,€ 15.66,1,0,0,0,0,0,0,0,0,€ 7.83,1,0
+15-Feb-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",20,€ 23.25,1,0,0,0,0,0,0,0,0,€ 11.62,1,0
+18-Jan-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",48,€ 17.04,0,0,0,0,0,0,0,2,0,€ 0.00,0,2
+25-Jan-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",31,€ 17.64,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+03-May-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",28,€ 18.02,1,0,0,0,0,0,0,0,0,€ 2.70,1,0
+10-May-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",17,€ 20.21,1,0,0,0,0,0,0,0,0,€ 10.10,1,0
+08-Feb-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",20,€ 16.02,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+22-Feb-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",15,€ 15.42,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+01-Mar-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",30,€ 19.11,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+08-Mar-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",25,€ 17.73,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+15-Mar-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",19,€ 16.82,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+22-Mar-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",20,€ 14.37,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+29-Mar-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",29,€ 17.75,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+05-Apr-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",24,€ 17.68,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+12-Apr-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",25,€ 18.12,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+19-Apr-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",32,€ 18.03,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+26-Apr-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",17,€ 18.11,0,0,0,0,1,0,0,0,0,€ 0.00,0,1
+17-May-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",13,€ 16.98,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+24-May-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",3,€ 12.17,0,0,0,0,0,0,0,3,0,€ 0.00,0,3
+31-May-25,"Principe Pio Shopping Center, Paseo de la Florida, Madrid, Spain",0,€ 0.00,0,0,0,0,0,0,0,3,0,€ 0.00,0,3
+01-Feb-25,"Calle Calderilla, Madrid, Spain",33,€ 25.47,1,0,1,0,0,0,0,0,0,€ 7.64,2,0
+08-Feb-25,"Calle Calderilla, Madrid, Spain",27,€ 23.33,1,0,0,0,0,0,0,0,0,€ 7.00,1,0
+15-Feb-25,"Calle Calderilla, Madrid, Spain",25,€ 25.73,1,0,0,0,0,0,0,0,0,€ 7.72,1,0
+01-Mar-25,"Calle Calderilla, Madrid, Spain",23,€ 26.19,1,0,0,0,0,0,0,0,0,€ 7.86,1,0
+08-Mar-25,"Calle Calderilla, Madrid, Spain",17,€ 16.82,1,0,0,0,0,0,0,0,0,€ 2.52,1,0
+12-Apr-25,"Calle Calderilla, Madrid, Spain",12,€ 23.36,1,0,0,0,0,0,0,0,0,€ 7.01,1,0
+10-May-25,"Calle Calderilla, Madrid, Spain",32,€ 21.70,1,0,0,0,0,0,0,0,0,€ 10.85,1,0
+25-Jan-25,"Calle Calderilla, Madrid, Spain",41,€ 23.15,0,0,0,0,0,0,0,4,0,€ 0.00,0,4
+17-May-25,"Calle Calderilla, Madrid, Spain",20,€ 20.87,1,0,0,0,0,0,0,0,0,€ 6.26,1,0
+18-Jan-25,"Calle Calderilla, Madrid, Spain",64,€ 22.27,2,0,0,1,0,0,0,4,0,€ 6.68,3,4
+22-Feb-25,"Calle Calderilla, Madrid, Spain",22,€ 25.02,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+05-Apr-25,"Calle Calderilla, Madrid, Spain",18,€ 23.96,2,0,0,0,0,0,0,0,0,€ 14.38,2,0
+24-May-25,"Calle Calderilla, Madrid, Spain",18,€ 20.33,2,0,0,0,0,0,0,0,0,€ 6.10,2,0
+15-Mar-25,"Calle Calderilla, Madrid, Spain",31,€ 20.52,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+22-Mar-25,"Calle Calderilla, Madrid, Spain",22,€ 17.87,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+29-Mar-25,"Calle Calderilla, Madrid, Spain",26,€ 24.22,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+19-Apr-25,"Calle Calderilla, Madrid, Spain",22,€ 24.02,0,0,0,1,0,0,0,0,0,€ 0.00,1,0
+26-Apr-25,"Calle Calderilla, Madrid, Spain",21,€ 23.31,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
+03-May-25,"Calle Calderilla, Madrid, Spain",16,€ 22.83,0,0,0,0,0,0,0,0,0,€ 0.00,0,0
